@@ -12,10 +12,10 @@ Last Style Storage: Default
 Audio File: Chang.An.2023.Hybird.1080p.BluRay.DDP7.1.x264-PTer.mkv
 Video File: Chang.An.2023.Hybird.1080p.BluRay.DDP7.1.x264-PTer.mkv
 Video AR Value: 2.388060
-Video Zoom Percent: 0.875000
-Scroll Position: 1219
-Active Line: 1238
-Video Position: 134487
+Video Zoom Percent: 1.000000
+Scroll Position: 1498
+Active Line: 1521
+Video Position: 158170
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -253,6 +253,7 @@ Dialogue: 0,0:20:50.98,0:20:53.52,Main,,0,0,0,,Huynh như vậy quá dễ bị n
 Dialogue: 0,0:20:53.90,0:20:55.05,Main,,0,0,0,,Cao Thích,
 Dialogue: 0,0:20:55.05,0:20:57.52,Main,,0,0,0,,huynh có biết làm thế nào \Nmới lừa được đối thủ không?
 Dialogue: 0,0:21:19.35,0:21:21.07,Main,,0,0,0,,Năm ta 18 tuổi,
+Dialogue: 0,0:21:21.07,0:21:24.27,GT 2,,0,0,0,,(Nghệ thuật sử dụng ngoại giao, tài hùng biện và mưu lược chiến lược)
 Dialogue: 0,0:21:21.07,0:21:24.27,Main,,0,0,0,,ta theo một vị Triệu tiên sinh ở núi Trường Bình\N học Tung Hoành Thuật.
 Dialogue: 0,0:21:24.27,0:21:26.98,Main,,0,0,0,,Không ngờ học Tung Hoành Thuật chưa thành,
 Dialogue: 0,0:21:26.98,0:21:30.43,Main,,0,0,0,,lại học được thuật gọi chim \Ncủa Triệu tiên sinh.
@@ -291,6 +292,7 @@ Dialogue: 0,0:24:17.19,0:24:19.31,Main,,0,0,0,,muốn làm việc khó nhất.
 Dialogue: 0,0:24:19.54,0:24:20.85,Main,,0,0,0,,Rồi sẽ có ngày,
 Dialogue: 0,0:24:20.85,0:24:25.03,Main,,0,0,0,,công thành danh toại, lui về đắc đạo.
 Dialogue: 0,0:24:26.69,0:24:29.52,Main,,0,0,0,,Nhưng trước khi đắc đạo,\N ta phải đi lấy công danh đã.
+Dialogue: 0,0:24:29.73,0:24:32.49,GT 2,,0,0,0,,(Khả năng nhìn người, phát hiện, trọng dụng nhân tài)
 Dialogue: 0,0:24:29.73,0:24:32.49,Main,,0,0,0,,Ta đã nghe từ lâu quận thú ở đây\N có cái tài của Bá Nhạc.
 Dialogue: 0,0:24:32.73,0:24:35.69,Main,,0,0,0,,Cao huynh, huynh có biết\N "hành quyển" không?
 Dialogue: 0,0:24:35.94,0:24:37.52,Main,,0,0,0,,Đương nhiên... là biết.
@@ -954,7 +956,7 @@ Dialogue: 0,1:09:31.78,1:09:34.10,Main,,0,0,0,,Mạnh Hạo Nhiên.
 Dialogue: 0,1:09:35.86,1:09:38.48,Main,,0,0,0,,Ta đương nhiên \Nđã nghe qua cái tên này rồi.
 Dialogue: 0,1:09:39.23,1:09:41.09,Main,thơ/văn,0,0,0,,{\i1}Giấc xuân chẳng biết sáng
 Dialogue: 0,1:09:41.54,1:09:43.52,Main,thơ/văn,0,0,0,,{\i1}Khắp chốn chim hót vang
-Dialogue: 0,1:09:46.11,1:09:47.89,Main,thơ/văn,0,0,0,,{\i1}Đêm qua nghe mưa gió 
+Dialogue: 0,1:09:46.11,1:09:47.89,Main,thơ/văn,0,0,0,,{\i1}Đêm qua nghe mưa gió
 Dialogue: 0,1:09:48.88,1:09:51.33,Main,thơ/văn,0,0,0,,{\i1}Rụng hoa biết mấy ngàn?
 Dialogue: 0,1:09:50.15,1:09:54.81,Signs,,0,0,0,,{\blur0.66\fscx120\fscy120\an9\fad(600,477)\pos(1395.44,71.94)}Nhà họ\N Mạnh
 Dialogue: 0,1:09:55.15,1:09:57.10,Main,,0,0,0,,Chủ nhân không có nhà, \Nđã ra ngoài hôm kia rồi.
@@ -1269,263 +1271,287 @@ Dialogue: 0,1:33:03.92,1:33:06.25,Main,,0,0,0,,tránh ta như tránh tà.
 Dialogue: 0,1:33:07.00,1:33:10.81,Main,,0,0,0,,Kẻ họ muốn là\N những kẻ nịnh hót bợ đỡ,
 Dialogue: 0,1:33:10.81,1:33:15.48,Main,,0,0,0,,chứ không phải một văn nhân\N có thể khiến họ thân bại danh liệt.
 Dialogue: 0,1:33:16.40,1:33:18.06,Main,,0,0,0,,Một văn nhân...
-Dialogue: 0,1:33:40.78,1:33:43.23,Main,,0,0,0,,Ở quê nhà Thương Khâu,
-Dialogue: 0,1:33:44.61,1:33:47.35,Main,,0,0,0,,ta đã ở suốt mười năm.
-Dialogue: 0,1:33:56.78,1:33:59.94,Main,,0,0,0,,Cao Tam Thập Ngũ quân, túc hạ gần đây vẫn an lành chứ?
-Dialogue: 0,1:34:00.57,1:34:02.68,Main,,0,0,0,,Lý Bạch gửi thư đến.
-Dialogue: 0,1:34:03.73,1:34:07.76,Main,,0,0,0,,Huynh ấy nói, trong mười năm, huynh ấy tìm tiên hỏi đạo.
-Dialogue: 0,1:34:07.76,1:34:11.89,Main,,0,0,0,,Tiên đạo không tìm được, nhưng danh tiếng của huynh ấy lại càng lớn hơn.
-Dialogue: 0,1:34:11.90,1:34:15.07,Main,,0,0,0,,Huynh ấy bất ngờ nhận được chiếu triệu của Thánh thượng,
-Dialogue: 0,1:34:15.07,1:34:16.99,Main,,0,0,0,,được triệu vào Trường An.
-Dialogue: 0,1:34:17.03,1:34:21.98,Main,,0,0,0,,Bây giờ huynh ấy đã vào Hàn Lâm Viện, rất được Thánh thượng tán thưởng.
-Dialogue: 0,1:34:22.40,1:34:24.56,Main,,0,0,0,,Tiên hoàng sùng tín đạo pháp.
-Dialogue: 0,1:34:25.23,1:34:26.67,Main,,0,0,0,,Lý Bạch nói,
-Dialogue: 0,1:34:26.67,1:34:31.10,Main,,0,0,0,,người tiến cử huynh ấy là Ngọc Chân công chúa.
-Dialogue: 0,1:34:31.18,1:34:32.14,Main,,0,0,0,,Ồ.
-Dialogue: 0,1:34:33.69,1:34:38.81,Main,,0,0,0,,Ai có thể ngờ Ngọc Chân công chúa lại tiến cử Lý Bạch.
-Dialogue: 0,1:34:39.10,1:34:41.61,Main,,0,0,0,,Ngọc Chân công chúa lúc đó đã nhập đạo môn,
-Dialogue: 0,1:34:41.61,1:34:44.68,Main,,0,0,0,,yêu thích những người tu đạo, những người ngoài thế tục.
-Dialogue: 0,1:34:47.94,1:34:50.31,Main,,0,0,0,,Người ngoài thế tục.
-Dialogue: 0,1:34:51.65,1:34:56.27,Main,,0,0,0,,Huynh ấy à, cuối cùng cũng đi được con đường tắt Chung Nam.
-Dialogue: 0,1:34:56.69,1:34:59.28,Main,,0,0,0,,Huynh ấy mời ta đến Trường An.
-Dialogue: 0,1:34:59.32,1:35:02.96,Main,,0,0,0,,Huynh ấy nói, ở Trường An huynh ấy quen biết rất nhiều bạn bè.
-Dialogue: 0,1:35:02.96,1:35:05.81,Main,,0,0,0,,Trong triều ngoài nội, ai cũng yêu mến huynh ấy.
-Dialogue: 0,1:35:06.61,1:35:10.74,Main,,0,0,0,,Huynh ấy muốn giúp ta mưu cầu công danh, thành tựu sự nghiệp.
-Dialogue: 0,1:35:10.78,1:35:13.43,Main,,0,0,0,,Mau đến Trường An, mau mau mau.
-Dialogue: 0,1:35:29.69,1:35:31.92,Main,,0,0,0,,Vị huynh đài này, xin hỏi,
-Dialogue: 0,1:35:31.92,1:35:33.38,Main,,0,0,0,,đi đến Diên Thọ phường thế nào?
-Dialogue: 0,1:35:33.38,1:35:35.82,Main,,0,0,0,,Thái Bạch tiên sinh có thể nói là tài hoa phóng khoáng.
-Dialogue: 0,1:35:35.82,1:35:39.42,Main,,0,0,0,,Ngưỡng thiên đại tiếu xuất môn khứ, ngã bối khởi thị bồng hao nhân.
-Dialogue: 0,1:35:39.42,1:35:42.43,Main,,0,0,0,,Lời thơ này thật là trác việt bất quần, vô địch thiên hạ.
-Dialogue: 0,1:35:42.78,1:35:44.00,Main,,0,0,0,,Theo ta thấy,
-Dialogue: 0,1:35:44.00,1:35:46.50,Main,,0,0,0,,Tử Dương chi chân nhân, yêu ngã xuy ngọc sanh.
-Dialogue: 0,1:35:46.50,1:35:48.89,Main,,0,0,0,,Đó mới là ý khí phiêu dật.
-Dialogue: 0,1:35:49.23,1:35:50.50,Main,,0,0,0,,Tiểu ca,
-Dialogue: 0,1:35:50.50,1:35:52.75,Main,,0,0,0,,Lý Bạch có phải ở nơi này không?
-Dialogue: 0,1:35:52.75,1:35:55.07,Main,,0,0,0,,Đúng đúng đúng, Lý học sĩ ở đây.
+Dialogue: 0,1:33:40.78,1:33:42.95,Main,,0,0,0,,Tại quê nhà Thương Khâu,
+Dialogue: 0,1:33:44.61,1:33:46.94,Main,,0,0,0,,ta ở đó suốt 10 năm.
+Dialogue: 0,1:33:56.78,1:33:59.57,Main,,0,0,0,,Cao Tam Thập Ngũ, \Ntúc hạ dạo này vẫn bình an chứ?
+Dialogue: 0,1:34:00.57,1:34:02.46,Main,,0,0,0,,Lý Bạch gửi thư đến.
+Dialogue: 0,1:34:03.73,1:34:07.47,Main,,0,0,0,,Ông ấy nói, \Ntrong 10 năm đã tìm tiên hỏi đạo.
+Dialogue: 0,1:34:07.76,1:34:11.44,Main,,0,0,0,,Tiên đạo không tìm được, \Nnhưng lại ngày một nổi danh.
+Dialogue: 0,1:34:11.90,1:34:14.86,Main,,0,0,0,,Ông ấy bất ngờ nhận được \Nchiếu của Thánh thượng,
+Dialogue: 0,1:34:15.07,1:34:16.75,Main,,0,0,0,,triệu vào Trường An.
+Dialogue: 0,1:34:17.03,1:34:21.48,Main,,0,0,0,,Bây giờ đã vào Hàn Lâm Viện,\N rất được Thánh thượng tán thưởng.
+Dialogue: 0,1:34:22.40,1:34:24.29,Main,,0,0,0,,Tiên hoàng sùng tín đạo pháp.
+Dialogue: 0,1:34:25.23,1:34:26.40,Main,,0,0,0,,Lý Bạch nói,
+Dialogue: 0,1:34:26.67,1:34:30.74,Main,,0,0,0,,người tiến cử ông ấy\N là Ngọc Chân công chúa.
+Dialogue: 0,1:34:31.18,1:34:31.94,Main,,0,0,0,,Ồ.
+Dialogue: 0,1:34:33.69,1:34:38.70,Main,,0,0,0,,Ai mà ngờ Ngọc Chân công chúa\N lại tiến cử Lý Bạch chứ.
+Dialogue: 0,1:34:39.10,1:34:41.61,Main,,0,0,0,,Ngọc Chân công chúa\N lúc đó đã nhập đạo môn,
+Dialogue: 0,1:34:41.61,1:34:44.51,Main,,0,0,0,,yêu thích những người tu đạo,\N những người thoát tục.
+Dialogue: 0,1:34:47.94,1:34:49.57,Main,,0,0,0,,Người thoát tục...
+Dialogue: 0,1:34:51.65,1:34:56.11,GT 2,,0,0,0,,(Tạo danh tiếng ở núi Chung Nam gần kinh thành để làm lối tắt lên làm quan)
+Dialogue: 0,1:34:51.65,1:34:56.11,Main,,0,0,0,,Ông ấy à, cuối cùng cũng đi được\N "đường tắt Chung Nam".
+Dialogue: 0,1:34:56.69,1:34:58.96,Main,,0,0,0,,Ông ấy mời ta đến Trường An.
+Dialogue: 0,1:34:59.32,1:35:02.74,Main,,0,0,0,,Ông ấy nói, ở Trường An \Nông ấy quen biết rất nhiều bạn bè.
+Dialogue: 0,1:35:02.96,1:35:05.81,Main,,0,0,0,,Trong ngoài triều đình, \Nai cũng yêu mến ông ấy.
+Dialogue: 0,1:35:06.61,1:35:10.54,Main,,0,0,0,,Ông ấy muốn giúp ta \Nmưu cầu công danh sự nghiệp.
+Dialogue: 0,1:35:10.78,1:35:13.43,Main,,0,0,0,,Mau đến Trường An, mau đi đi.
+Dialogue: 0,1:35:20.40,1:35:25.94,Signs,,0,0,0,,{\blur0.66\an9\fscx126\fscy126\fad(1392,0)\pos(462.44,236.36)}Trường\N An
+Dialogue: 0,1:35:29.69,1:35:31.84,Main,,0,0,0,,Này vị huynh đài, cho hỏi...
+Dialogue: 0,1:35:31.84,1:35:33.40,Main,,0,0,0,,phường Diên Thọ đi lối nào?
+Dialogue: 0,1:35:33.40,1:35:35.82,Main,,0,0,0,,Thái Bạch tiên sinh có thể nói là\N tài hoa phóng khoáng.
+Dialogue: 0,1:35:35.82,1:35:39.42,Main,thơ/văn,0,0,0,,{\i1}Qua cửa ngẩng mặt ta cười lớn \NTa đây há phải hạng cùng bần.
+Dialogue: 0,1:35:39.42,1:35:42.19,Main,,0,0,0,,Ý thơ này thật là xuất chúng, vô địch thiên hạ.
+Dialogue: 0,1:35:42.78,1:35:43.73,Main,,0,0,0,,Theo ta thấy,
+Dialogue: 0,1:35:44.00,1:35:46.54,Main,thơ/văn,0,0,0,,{\i1}Có Tử Dương chân nhân\NCầm ngọc tiêu gạ thổi.
+Dialogue: 0,1:35:46.54,1:35:48.19,Main,,0,0,0,,Đó mới là dâng trào cảm xúc.
+Dialogue: 0,1:35:49.23,1:35:49.89,Main,,0,0,0,,Tiểu ca.
+Dialogue: 0,1:35:49.89,1:35:50.50,Main,,0,0,0,,Gì?
+Dialogue: 0,1:35:50.50,1:35:52.75,Main,,0,0,0,,Lý Bạch có phải ở đây không?
+Dialogue: 0,1:35:52.75,1:35:54.83,Main,,0,0,0,,À đúng rồi, Lý học sĩ ở đây.
 Dialogue: 0,1:35:55.07,1:35:56.79,Main,,0,0,0,,Sao, ngươi cũng thích thơ của ông ấy à?
-Dialogue: 0,1:35:56.79,1:35:58.71,Main,,0,0,0,,Ngày nào cũng có người đến tìm ông ấy.
-Dialogue: 0,1:35:58.71,1:36:01.23,Main,,0,0,0,,Đều tụ tập ngoài cửa, cuồng nhiệt lắm.
-Dialogue: 0,1:36:01.35,1:36:03.52,Main,,0,0,0,,Cao Tam Thập Ngũ quân.
-Dialogue: 0,1:36:05.65,1:36:08.61,Main,,0,0,0,,Lâu rồi không gặp, lâu rồi không gặp.
+Dialogue: 0,1:35:57.17,1:35:58.71,Main,,0,0,0,,Ngày nào cũng có người đến tìm ông ấy.
+Dialogue: 0,1:35:58.71,1:36:01.09,Main,,0,0,0,,Tụ tập ngoài cửa rất đông, náo nhiệt lắm.
+Dialogue: 0,1:36:01.30,1:36:02.99,Main,,0,0,0,,Cao Tam Thập Ngũ?
+Dialogue: 0,1:36:05.65,1:36:08.14,Main,,0,0,0,,Lâu rồi không gặp, lâu rồi không gặp.
 Dialogue: 0,1:36:08.61,1:36:10.06,Main,,0,0,0,,Tôn đài là...
-Dialogue: 0,1:36:10.86,1:36:13.00,Main,,0,0,0,,Hai mươi năm trước, ở Kỳ Vương phủ,
-Dialogue: 0,1:36:13.00,1:36:15.31,Main,,0,0,0,,chúng ta cùng nhau trốn trong đầu lân.
-Dialogue: 0,1:36:15.32,1:36:16.93,Main,,0,0,0,,Ta là Đỗ Phủ đây.
-Dialogue: 0,1:36:23.11,1:36:24.81,Main,,0,0,0,,Hóa ra là huynh.
-Dialogue: 0,1:36:25.44,1:36:27.02,Main,,0,0,0,,Thật tốt quá.
-Dialogue: 0,1:36:27.01,1:36:29.58,Main,,0,0,0,,Mấy năm nay ta vẫn luôn đọc được thơ của huynh.
-Dialogue: 0,1:36:29.58,1:36:31.80,Main,,0,0,0,,Mọi người đều thích thơ biên tái của huynh.
-Dialogue: 0,1:36:31.80,1:36:33.56,Main,,0,0,0,,Nhưng ta thích nhất là câu
-Dialogue: 0,1:36:33.64,1:36:36.85,Main,,0,0,0,,Thanh phong kỷ vạn lý, giang thượng nhất quy nhân.
-Dialogue: 0,1:36:36.90,1:36:38.73,Main,,0,0,0,,Phóng khoáng vô cùng.
-Dialogue: 0,1:36:38.78,1:36:40.67,Main,,0,0,0,,Đỗ huynh quá khen, còn câu của huynh
-Dialogue: 0,1:36:40.67,1:36:43.17,Main,,0,0,0,,Hội đương lăng tuyệt đỉnh, nhất lãm chúng sơn tiểu.
-Dialogue: 0,1:36:43.17,1:36:44.93,Main,,0,0,0,,mới là lòng dạ hùng tráng.
-Dialogue: 0,1:36:46.44,1:36:48.21,Main,,0,0,0,,Huynh cũng đến tìm Lý Bạch à?
+Dialogue: 0,1:36:10.86,1:36:13.00,Main,,0,0,0,,20 năm trước, ở Kỳ Vương phủ,
+Dialogue: 0,1:36:13.00,1:36:14.80,Main,,0,0,0,,chúng ta cùng nhau trốn trong đầu lân.
+Dialogue: 0,1:36:15.32,1:36:16.48,Main,,0,0,0,,Ta là Đỗ Phủ đây.
+Dialogue: 0,1:36:18.44,1:36:20.94,Signs,,0,0,0,,{\blur0.66\an8\fscx125\fscy125\c&H4A6077&\3c&H4A6077&\t(41,41,\c&H5A6E83&\3c&H5A6E83&)\t(83,83,\c&H6C7E92&\3c&H6C7E92&)\t(125,125,\c&H7E8FA1&\3c&H7E8FA1&)\t(166,166,\c&H91A0B2&\3c&H91A0B2&)\t(208,208,\c&HA3B1C0&\3c&HA3B1C0&)\t(250,250,\c&HB4C2D0&\3c&HB4C2D0&)\t(291,291,\c&HC5D2DE&\3c&HC5D2DE&)\t(333,333,\c&HD7DFEA&\3c&HD7DFEA&)\t(375,375,\c&HE7EEF8&\3c&HE7EEF8&)\t(416,416,\c&HF4F9FF&\3c&HF4F9FF&)\t(458,458,\c&HF2F9FF&\3c&HF2F9FF&)\t(500,500,\c&HF2F9FF&\3c&HF2F9FF&)\t(541,541,\c&HF0FAFF&\3c&HF0FAFF&)\t(583,583,\c&HF0FAFF&\3c&HF0FAFF&)\t(625,625,\c&HF0FAFF&\3c&HF0FAFF&)\t(666,666,\c&HF0FAFF&\3c&HF0FAFF&)\t(708,708,\c&HF0FAFF&\3c&HF0FAFF&)\t(750,750,\c&HF0FAFF&\3c&HF0FAFF&)\t(791,791,\c&HF0FAFF&\3c&HF0FAFF&)\t(833,833,\c&HF0FAFF&\3c&HF0FAFF&)\t(875,875,\c&HF0FAFF&\3c&HF0FAFF&)\t(916,916,\c&HF0FAFF&\3c&HF0FAFF&)\t(958,958,\c&HF0FAFF&\3c&HF0FAFF&)\t(1000,1000,\c&HF0FAFF&\3c&HF0FAFF&)\t(1041,1041,\c&HF0FAFF&\3c&HF0FAFF&)\t(1083,1083,\c&HF0FAFF&\3c&HF0FAFF&)\t(1125,1125,\c&HF0FAFF&\3c&HF0FAFF&)\t(1166,1166,\c&HF0FAFF&\3c&HF0FAFF&)\t(1208,1208,\c&HF0FAFF&\3c&HF0FAFF&)\t(1250,1250,\c&HF0FAFF&\3c&HF0FAFF&)\t(1291,1291,\c&HF0FAFF&\3c&HF0FAFF&)\t(1333,1333,\c&HF0FAFF&\3c&HF0FAFF&)\t(1375,1375,\c&HF0FAFF&\3c&HF0FAFF&)\t(1416,1416,\c&HF0FAFF&\3c&HF0FAFF&)\t(1458,1458,\c&HF1FBFF&\3c&HF1FBFF&)\t(1500,1500,\c&HF2FCFF&\3c&HF2FCFF&)\t(1541,1541,\c&HF3FDFF&\3c&HF3FDFF&)\t(1583,1583,\c&HF3FDFF&\3c&HF3FDFF&)\t(1625,1625,\c&HF3FDFF&\3c&HF3FDFF&)\t(1666,1666,\c&HF3FDFF&\3c&HF3FDFF&)\t(1708,1708,\c&HF3FDFF&\3c&HF3FDFF&)\t(1750,1750,\c&HF3FDFF&\3c&HF3FDFF&)\t(1791,1791,\c&HF3FDFF&\3c&HF3FDFF&)\t(1833,1833,\c&HF3FDFF&\3c&HF3FDFF&)\t(1875,1875,\c&HF3FDFF&\3c&HF3FDFF&)\t(1916,1916,\c&HF3FDFF&\3c&HF3FDFF&)\t(1958,1958,\c&HF3FDFF&\3c&HF3FDFF&)\t(2000,2000,\c&HF3FDFF&\3c&HF3FDFF&)\t(2041,2041,\c&HF3FDFF&\3c&HF3FDFF&)\t(2083,2083,\c&HF3FDFF&\3c&HF3FDFF&)\t(2125,2125,\c&HF3FDFF&\3c&HF3FDFF&)\t(2166,2166,\c&HF3FDFF&\3c&HF3FDFF&)\t(2208,2208,\c&HF3FDFF&\3c&HF3FDFF&)\t(2250,2250,\c&HF3FDFF&\3c&HF3FDFF&)\t(2291,2291,\c&HF3FDFF&\3c&HF3FDFF&)\t(2333,2333,\c&HF3FDFF&\3c&HF3FDFF&)\t(2375,2375,\c&HF3FDFF&\3c&HF3FDFF&)\t(2416,2416,\c&HF3FDFF&\3c&HF3FDFF&)\t(2458,2458,\c&HF3FDFF&\3c&HF3FDFF&)\pos(116.56,106.21)}Đỗ \NPhủ\N\N\N thời\N thanh\N niên
+Dialogue: 0,1:36:23.11,1:36:24.40,Main,,0,0,0,,Hóa ra là huynh.
+Dialogue: 0,1:36:25.44,1:36:26.66,Main,,0,0,0,,Thật tốt quá.
+Dialogue: 0,1:36:27.01,1:36:29.58,Main,,0,0,0,,Mấy năm nay ta vẫn luôn đọc được\N thơ của huynh.
+Dialogue: 0,1:36:29.58,1:36:31.38,Main,,0,0,0,,Mọi người đều thích \Nthơ biên tái của huynh.
+Dialogue: 0,1:36:31.80,1:36:33.34,Main,,0,0,0,,Nhưng ta thích nhất là câu...
+Dialogue: 0,1:36:33.64,1:36:36.48,Main,thơ/văn,0,0,0,,{\i1}Mấy vạn dặm gió mang\NTrên sông một bóng chàng.
+Dialogue: 0,1:36:36.90,1:36:38.13,Main,,0,0,0,,Phóng khoáng vô cùng.
+Dialogue: 0,1:36:38.78,1:36:39.98,Main,,0,0,0,,Đỗ huynh quá khen.
+Dialogue: 0,1:36:40.27,1:36:43.17,Main,thơ/văn,0,0,0,,Còn câu của huynh, \N{\i1}"Thế nên thề lên đỉnh, vọng xuống hàng núi con."{\i0}
+Dialogue: 0,1:36:43.17,1:36:44.83,Main,,0,0,0,,mới là chí khí ngút trời.
+Dialogue: 0,1:36:46.62,1:36:47.81,Main,,0,0,0,,Huynh cũng đến tìm Lý Bạch à?
 Dialogue: 0,1:36:48.23,1:36:50.21,Main,,0,0,0,,Phải, gõ cửa không thấy trả lời.
-Dialogue: 0,1:36:50.21,1:36:52.46,Main,,0,0,0,,Hôm kia ta không thấy Lý học sĩ về.
-Dialogue: 0,1:36:52.46,1:36:54.23,Main,,0,0,0,,Ông ấy uống giỏi thật.
-Dialogue: 0,1:36:54.23,1:36:57.75,Main,,0,0,0,,Ông ấy à, nhất định lại la cà ở tửu điếm Hồ cơ bên Khúc Giang rồi.
-Dialogue: 0,1:36:57.75,1:36:59.03,Main,,0,0,0,,Ca mới vũ mới.
-Dialogue: 0,1:36:59.03,1:37:00.04,Main,,0,0,0,,Nào, đi.
-Dialogue: 0,1:37:00.04,1:37:01.89,Main,,0,0,0,,Chúng ta cùng đi tìm ông ấy.
-Dialogue: 0,1:37:04.65,1:37:06.15,Main,,0,0,0,,Khúc Giang Trì.
-Dialogue: 0,1:37:06.15,1:37:08.00,Main,,0,0,0,,Yến tiệc Khúc Giang năm nay vừa mới tổ chức xong.
-Dialogue: 0,1:37:08.00,1:37:11.31,Main,,0,0,0,,Nhưng việc buôn bán ở các tửu lầu, tửu điếm vẫn vô cùng thịnh vượng.
-Dialogue: 0,1:37:11.57,1:37:14.14,Main,,0,0,0,,Đỗ huynh cũng đang chuẩn bị ứng thí phải không?
-Dialogue: 0,1:37:15.07,1:37:17.48,Main,,0,0,0,,Ta đã thi hai lần, vẫn chưa đỗ.
-Dialogue: 0,1:37:17.67,1:37:20.89,Main,,0,0,0,,Yến tiệc Khúc Giang của ta, còn phải đợi thêm.
-Dialogue: 0,1:37:22.53,1:37:23.93,Main,,0,0,0,,Chính là nơi này.
-Dialogue: 0,1:37:50.11,1:37:51.04,Main,,0,0,0,,Kia kìa.
-Dialogue: 0,1:37:51.04,1:37:51.92,Main,,0,0,0,,Hạ giám!
-Dialogue: 0,1:37:51.92,1:37:53.35,Main,,0,0,0,,Hạ giám!
-Dialogue: 0,1:37:55.11,1:37:56.14,Main,,0,0,0,,Hạ giám!
-Dialogue: 0,1:37:56.22,1:37:58.65,Main,,0,0,0,,Hạ giám ông ấy không sao.
-Dialogue: 0,1:37:58.65,1:38:03.46,Main,,0,0,0,,Các vị xem, Hạ giám ngủ quên trong ao rồi.
-Dialogue: 0,1:38:08.86,1:38:11.69,Main,,0,0,0,,Mau mau mau, Thái Bạch huynh ở trên kia.
-Dialogue: 0,1:38:11.69,1:38:14.13,Main,,0,0,0,,Câu vừa rồi của Hạ giám là gì nhỉ?
-Dialogue: 0,1:38:14.13,1:38:16.46,Main,,0,0,0,,Mạc ngôn xuân độ phương phi tận.
-Dialogue: 0,1:38:16.46,1:38:18.64,Main,,0,0,0,,Phương phi tận.
-Dialogue: 0,1:38:19.65,1:38:21.69,Main,,0,0,0,,Câu hay, câu hay.
+Dialogue: 0,1:36:50.21,1:36:52.46,Main,,0,0,0,,Hôm trước ta\N cũng không thấy Lý học sĩ về.
+Dialogue: 0,1:36:52.46,1:36:53.94,Main,,0,0,0,,Ông ấy uống giỏi thật.
+Dialogue: 0,1:36:54.23,1:36:57.75,Main,,0,0,0,,Ông ấy à, nhất định lại la cà ở\N tửu điếm Hồ cơ bên Khúc Giang rồi.
+Dialogue: 0,1:36:57.75,1:36:58.88,Main,,0,0,0,,Nào thì hát mới múa mới.
+Dialogue: 0,1:36:59.03,1:36:59.90,Main,,0,0,0,,Nào, đi thôi.
+Dialogue: 0,1:37:00.04,1:37:02.00,Main,,0,0,0,,Cùng đi tìm ông ấy, nào.
+Dialogue: 0,1:37:04.65,1:37:05.86,Main,,0,0,0,,Hồ Khúc Giang.
+Dialogue: 0,1:37:06.15,1:37:07.86,Main,,0,0,0,,Khúc Giang yến năm nay vừa mới tổ chức xong.
+Dialogue: 0,1:37:08.00,1:37:11.31,Main,,0,0,0,,Nhưng việc buôn bán ở các tửu lầu, tửu điếm\N vẫn vô cùng thịnh vượng.
+Dialogue: 0,1:37:11.57,1:37:13.98,Main,,0,0,0,,Đỗ huynh cũng đang chuẩn bị\N ứng thí phải không?
+Dialogue: 0,1:37:15.07,1:37:17.19,Main,,0,0,0,,Ta đã thi hai lần, vẫn chưa đỗ.
+Dialogue: 0,1:37:17.67,1:37:20.46,Main,,0,0,0,,Khúc Giang yến của ta, còn phải đợi thêm.
+Dialogue: 0,1:37:22.53,1:37:23.52,Main,,0,0,0,,Chính là chỗ này.
+Dialogue: 0,1:37:50.11,1:37:50.83,Main,,0,0,0,,Ở đó!
+Dialogue: 0,1:37:51.04,1:37:51.79,Main,,0,0,0,,Hạ giám!
+Dialogue: 0,1:37:51.92,1:37:52.88,Main,,0,0,0,,Hạ giám?
+Dialogue: 0,1:37:55.11,1:37:55.97,Main,,0,0,0,,Hạ giám!
+Dialogue: 0,1:37:56.22,1:37:58.65,Main,,0,0,0,,Hạ giám không sao.
+Dialogue: 0,1:37:58.65,1:38:02.83,Main,,0,0,0,,Các vị xem, Hạ giám ngủ quên trong ao rồi.
+Dialogue: 0,1:38:03.02,1:38:06.06,Signs,,0,0,0,,{\blur0.66\fscx120\fscy120\an7\fad(355,352)\pos(853.72,533.34)}Hạ Tri Chương
+Dialogue: 0,1:38:08.86,1:38:11.04,Main,,0,0,0,,Mau mau mau, \NThái Bạch huynh ở trên kia.
+Dialogue: 0,1:38:11.69,1:38:13.95,Main,,0,0,0,,Câu vừa rồi của Hạ giám là gì nhỉ?
+Dialogue: 0,1:38:12.02,1:38:16.19,Signs,,0,0,0,,{\blur0.66\fscx120\fscy120\an7\fad(647,648)\pos(1308.57,207.85)}Trương \NHúc
+Dialogue: 0,1:38:14.13,1:38:16.46,Main,thơ/văn,0,0,0,,Mạc ngôn xuân độ phương phi tận.
+Dialogue: 0,1:38:16.46,1:38:18.64,Main,thơ/văn,0,0,0,,Phương phi tận.
+Dialogue: 0,1:38:19.65,1:38:21.38,Main,,0,0,0,,Câu hay, câu hay.
 Dialogue: 0,1:38:21.69,1:38:23.96,Main,,0,0,0,,Khó nối, khó nối.
-Dialogue: 0,1:38:23.96,1:38:26.25,Main,,0,0,0,,Mau nối đi, mau nối đi, nếu nối không hay,
-Dialogue: 0,1:38:26.25,1:38:28.18,Main,,0,0,0,,không được bước xuống khỏi tấm ván này.
-Dialogue: 0,1:38:29.73,1:38:34.17,Main,,0,0,0,,Minh triêu khước đãi nhập hoa viên.
+Dialogue: 0,1:38:23.96,1:38:25.09,Main,,0,0,0,,Mau nối đi, mau nối đi.
+Dialogue: 0,1:38:25.09,1:38:26.25,Main,,0,0,0,,Nếu nối không hay...
+Dialogue: 0,1:38:26.25,1:38:27.95,Main,,0,0,0,,không được bước xuống \Nkhỏi tấm ván này.
+Dialogue: 0,1:38:29.73,1:38:34.17,Main,thơ/văn,0,0,0,,Minh triêu khước đãi nhập hoa viên.
 Dialogue: 0,1:38:34.17,1:38:34.96,Main,,0,0,0,,Thế nào?
-Dialogue: 0,1:38:34.96,1:38:37.63,Main,,0,0,0,,Thôi được, thôi được, cho ngươi xuống.
-Dialogue: 0,1:38:37.63,1:38:39.92,Main,,0,0,0,,Ngươi phải bù lại một bức thư pháp đó.
+Dialogue: 0,1:38:34.96,1:38:37.63,Main,,0,0,0,,Thôi được, thôi được, cho ông xuống.
+Dialogue: 0,1:38:37.63,1:38:39.92,Main,,0,0,0,,Phải bù lại một bức thư pháp đó.
 Dialogue: 0,1:38:39.92,1:38:41.77,Main,,0,0,0,,Được, được.
 Dialogue: 0,1:38:42.65,1:38:44.14,Main,,0,0,0,,Đỗ Tử Mỹ.
-Dialogue: 0,1:38:45.15,1:38:47.75,Main,,0,0,0,,- Bạn mới. - Đến lượt Thôi Tông Chi rồi.
-Dialogue: 0,1:38:47.75,1:38:49.23,Main,,0,0,0,,Ta thôi đi.
-Dialogue: 0,1:38:50.15,1:38:51.48,Main,,0,0,0,,- Tông Chi, lên đi. - Không, không, không.
+Dialogue: 0,1:38:45.22,1:38:46.08,Main,,0,0,0,,Bạn mới.
+Dialogue: 0,1:38:46.08,1:38:47.75,Main - Top,,0,0,0,,Đến lượt Thôi Tông Chi rồi.
+Dialogue: 0,1:38:47.75,1:38:49.25,Main,,0,0,0,,Ta thì xin thôi.
+Dialogue: 0,1:38:50.15,1:38:51.19,Main,,0,0,0,,Tông Chi, lên đi.
+Dialogue: 0,1:38:50.15,1:38:51.19,Main - Top,,0,0,0,,Không, không, không.
 Dialogue: 0,1:38:51.48,1:38:52.58,Main,,0,0,0,,Ta sợ độ cao.
 Dialogue: 0,1:38:52.58,1:38:54.08,Main,,0,0,0,,Hạ giám lớn tuổi, Tông Chi còn trẻ.
-Dialogue: 0,1:38:54.08,1:38:57.02,Main,,0,0,0,,Tấm ván này nên dài hơn một chút.
-Dialogue: 0,1:38:57.98,1:38:59.71,Main,,0,0,0,,Tông Chi đừng sợ.
-Dialogue: 0,1:38:59.71,1:39:01.71,Main,,0,0,0,,Nào, đưa cho Tông Chi một cây tỳ bà.
-Dialogue: 0,1:39:01.71,1:39:05.27,Main,,0,0,0,,- Vừa đàn sẽ không sợ nữa. - Nối hai câu hay đi.
-Dialogue: 0,1:39:09.15,1:39:10.65,Main,,0,0,0,,Lý Bạch.
-Dialogue: 0,1:39:13.61,1:39:16.77,Main,,0,0,0,,Không trúng, phải phạt hai chén.
+Dialogue: 0,1:38:54.08,1:38:56.62,Main,,0,0,0,,Tấm ván này nên dài hơn một chút.
+Dialogue: 0,1:38:57.98,1:38:59.46,Main,,0,0,0,,Tông Chi đừng sợ.
+Dialogue: 0,1:38:59.71,1:39:01.71,Main,,0,0,0,,Nào, đưa cho Tông Chi cây tỳ bà.
+Dialogue: 0,1:39:01.71,1:39:03.44,Main,,0,0,0,,Đàn rồi sẽ không sợ nữa.
+Dialogue: 0,1:39:03.44,1:39:05.28,Main,,0,0,0,,Nối hai câu hay đi.
+Dialogue: 0,1:39:09.36,1:39:10.30,Main,,0,0,0,,Lý Bạch.
+Dialogue: 0,1:39:13.61,1:39:16.48,Main,,0,0,0,,Không trúng, phải phạt hai chén.
 Dialogue: 0,1:39:20.44,1:39:23.23,Main,,0,0,0,,Cao Thích, Cao Tam Thập Ngũ.
-Dialogue: 0,1:39:24.78,1:39:27.29,Main,,0,0,0,,Lại đây, lại đây, vị này,
-Dialogue: 0,1:39:27.29,1:39:28.42,Main,,0,0,0,,là Cao Thích.
-Dialogue: 0,1:39:28.42,1:39:30.18,Main,,0,0,0,,Mọi người đều nghe qua rồi chứ?
-Dialogue: 0,1:39:31.40,1:39:34.12,Main,,0,0,0,,Chúng ta là bạn tốt hơn hai mươi năm rồi.
-Dialogue: 0,1:39:34.12,1:39:36.40,Main,,0,0,0,,Lại đây, lại đây, giới thiệu một chút.
+Dialogue: 0,1:39:24.78,1:39:26.06,Main,,0,0,0,,Lại đây, lại đây.
+Dialogue: 0,1:39:26.06,1:39:27.10,Main,,0,0,0,,Vị này là...
+Dialogue: 0,1:39:27.29,1:39:28.05,Main,,0,0,0,,Cao Thích.
+Dialogue: 0,1:39:28.42,1:39:29.89,Main,,0,0,0,,Mọi người đều nghe qua rồi chứ?
+Dialogue: 0,1:39:31.40,1:39:33.81,Main,,0,0,0,,Chúng ta là bạn tốt hơn 20 năm rồi.
+Dialogue: 0,1:39:34.12,1:39:35.90,Main,,0,0,0,,Lại đây, lại đây, giới thiệu một chút.
 Dialogue: 0,1:39:36.98,1:39:39.26,Main,,0,0,0,,Nhữ Dương Vương.
+Dialogue: 0,1:39:38.48,1:39:42.56,Signs,,0,0,0,,Nhữ Dương Vương.
 Dialogue: 0,1:39:39.28,1:39:41.67,Main,,0,0,0,,Cháu trưởng của Duệ Tông hoàng đế.
-Dialogue: 0,1:39:41.67,1:39:44.25,Main,,0,0,0,,Chúng ta thơ rượu giao du bình đẳng, không phân biệt vương hầu.
+Dialogue: 0,1:39:41.67,1:39:44.25,Main,,0,0,0,,Chúng ta thơ rượu giao du bình đẳng,\N không phân biệt vương hầu.
 Dialogue: 0,1:39:44.25,1:39:45.35,Main,,0,0,0,,Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
-Dialogue: 0,1:39:45.35,1:39:46.60,Main,,0,0,0,,Còn vị này,
+Dialogue: 0,1:39:45.35,1:39:46.60,Main,,0,0,0,,Còn vị này.
 Dialogue: 0,1:39:47.03,1:39:49.42,Main,,0,0,0,,Lý Ung, Lý thái thú.
-Dialogue: 0,1:39:49.42,1:39:51.52,Main,,0,0,0,,Hành thư quán tuyệt đương thời.
-Dialogue: 0,1:39:51.52,1:39:53.40,Main,,0,0,0,,- Hân hạnh, hân hạnh. - Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
-Dialogue: 0,1:39:55.15,1:39:56.44,Main,,0,0,0,,Hai vị này,
-Dialogue: 0,1:39:56.44,1:39:58.75,Main,,0,0,0,,hai vị này là Vương Xương Linh, Sầm Tham.
+Dialogue: 0,1:39:47.48,1:39:51.31,Signs,,0,0,0,,Lý Ung, Lý thái thú.
+Dialogue: 0,1:39:49.42,1:39:51.52,Main,,0,0,0,,Hành thư xuất chúng nhất thời nay.
+Dialogue: 0,1:39:51.52,1:39:53.40,Main,,0,0,0,,Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
+Dialogue: 0,1:39:51.52,1:39:53.40,Main - Top,,0,0,0,,Hân hạnh, hân hạnh.
+Dialogue: 0,1:39:55.15,1:39:56.44,Main,,0,0,0,,Hai vị này.
+Dialogue: 0,1:39:56.44,1:39:58.75,Main,,0,0,0,,Hai vị này là Vương Xương Linh, Sầm Tham.
+Dialogue: 0,1:39:56.85,1:39:59.85,Signs,,0,0,0,,Vương Xương Linh, Sầm Tham
 Dialogue: 0,1:39:58.75,1:40:00.32,Main,,0,0,0,,Huynh nhất định đã nghe qua.
-Dialogue: 0,1:40:00.32,1:40:03.63,Main,,0,0,0,,Tần thời minh nguyệt Hán thời quan,
-Dialogue: 0,1:40:03.63,1:40:05.71,Main,,0,0,0,,Vạn lý trường chinh nhân vị hoàn.
-Dialogue: 0,1:40:05.71,1:40:07.29,Main,,0,0,0,,Chê cười rồi, chê cười rồi.
-Dialogue: 0,1:40:07.29,1:40:10.81,Main,,0,0,0,,Hốt như nhất dạ xuân phong lai,
-Dialogue: 0,1:40:10.98,1:40:14.68,Main,,0,0,0,,Thiên thụ vạn thụ lê hoa khai.
+Dialogue: 0,1:40:00.32,1:40:03.63,Main,thơ/văn,0,0,0,,Tần thời minh nguyệt Hán thời quan,
+Dialogue: 0,1:40:03.63,1:40:05.71,Main,thơ/văn,0,0,0,,Vạn lý trường chinh nhân vị hoàn.
+Dialogue: 0,1:40:05.71,1:40:07.18,Main,,0,0,0,,Chê cười rồi, chê cười rồi.
+Dialogue: 0,1:40:07.18,1:40:10.81,Main,thơ/văn,0,0,0,,Hốt như nhất dạ xuân phong lai,
+Dialogue: 0,1:40:10.98,1:40:14.68,Main,thơ/văn,0,0,0,,Thiên thụ vạn thụ lê hoa khai.
 Dialogue: 0,1:40:16.11,1:40:17.21,Main,,0,0,0,,Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
-Dialogue: 0,1:40:17.23,1:40:19.88,Main,,0,0,0,,Các vị đều nổi danh với thơ biên tái.
+Dialogue: 0,1:40:17.21,1:40:19.62,Main,,0,0,0,,Các vị đều nổi danh với thơ biên tái.
 Dialogue: 0,1:40:19.88,1:40:21.21,Main,,0,0,0,,Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
-Dialogue: 0,1:40:21.21,1:40:23.93,Main,,0,0,0,,Thôi Tông Chi, thiếu niên anh tuấn.
-Dialogue: 0,1:40:26.82,1:40:27.82,Main,,0,0,0,,Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
-Dialogue: 0,1:40:27.82,1:40:29.33,Main,,0,0,0,,Tiếng tỳ bà của Tông Chi,
-Dialogue: 0,1:40:29.33,1:40:33.17,Main,,0,0,0,,đã đàn ra sự kinh tâm động phách của Phá Trận Khúc.
-Dialogue: 0,1:40:33.17,1:40:34.96,Main,,0,0,0,,Vương Duy huynh.
+Dialogue: 0,1:40:21.21,1:40:23.82,Main,,0,0,0,,Thôi Tông Chi, thiếu niên anh tuấn.
+Dialogue: 0,1:40:26.82,1:40:27.66,Main,,0,0,0,,Ngưỡng mộ đã lâu, ngưỡng mộ đã lâu.
+Dialogue: 0,1:40:27.82,1:40:29.33,Main,,0,0,0,,Tiếng tỳ bà của Tông Chi...
+Dialogue: 0,1:40:29.33,1:40:33.17,Main,,0,0,0,,đàn ra được sự kinh hồn khiếp vía\N của Phá Trận Khúc.
+Dialogue: 0,1:40:33.17,1:40:34.40,Main,,0,0,0,,Vương Duy huynh.
 Dialogue: 0,1:40:34.96,1:40:36.08,Main,,0,0,0,,Vương Duy huynh cũng ở đây.
-Dialogue: 0,1:40:36.08,1:40:37.68,Main,,0,0,0,,Thật trùng hợp, thật trùng hợp.
-Dialogue: 0,1:40:39.03,1:40:42.02,Main,,0,0,0,,Vương Duy huynh, huynh cũng lại đây nối hai câu đi.
-Dialogue: 0,1:40:42.44,1:40:44.83,Main,,0,0,0,,Các vị cứ vui vẻ, ta còn có việc,
-Dialogue: 0,1:40:44.83,1:40:46.10,Main,,0,0,0,,xin cáo lui trước.
-Dialogue: 0,1:40:49.40,1:40:52.17,Main,,0,0,0,,Ma Cật cư sĩ bị cái tiếng ợ rượu của ngươi hun cho,
-Dialogue: 0,1:40:52.17,1:40:54.13,Main,,0,0,0,,tu hành mất đi mười mấy năm.
-Dialogue: 0,1:40:54.13,1:40:56.89,Main,,0,0,0,,Đến ta rồi, ta đến đây, ta đến đây.
-Dialogue: 0,1:40:58.82,1:41:02.96,Main,,0,0,0,,Cao Tam Thập Ngũ, Cao Tam Thập Ngũ.
-Dialogue: 0,1:41:02.95,1:41:04.18,Main,,0,0,0,,Mau nói cho ta biết,
-Dialogue: 0,1:41:04.31,1:41:07.56,Main,,0,0,0,,sao huynh lại đột nhiên đến Trường An vậy?
-Dialogue: 0,1:41:08.28,1:41:10.88,Main,,0,0,0,,Sao huynh không báo trước cho ta một tiếng?
-Dialogue: 0,1:41:10.88,1:41:14.06,Main,,0,0,0,,Ta... ta nhận được một bức thư gấp của Lý huynh.
-Dialogue: 0,1:41:15.90,1:41:17.93,Main,,0,0,0,,Thư gấp của ta?
-Dialogue: 0,1:41:19.48,1:41:22.00,Main,,0,0,0,,Xương Linh huynh, có phải huynh không nối được không?
-Dialogue: 0,1:41:22.00,1:41:22.96,Main,,0,0,0,,Xương Linh huynh,
-Dialogue: 0,1:41:22.96,1:41:25.48,Main,,0,0,0,,nếu huynh không nối được thì phải chịu phạt đó.
-Dialogue: 0,1:41:25.48,1:41:27.89,Main,,0,0,0,,Ta đến đây, ta đến đây, ta đến đây.
-Dialogue: 0,1:41:31.53,1:41:33.14,Main,,0,0,0,,Tỳ bà đâu.
-Dialogue: 0,1:41:37.19,1:41:41.75,Main,,0,0,0,,Lý Bạch ông ấy không phải người phàm trần.
-Dialogue: 0,1:41:41.75,1:41:45.50,Main,,0,0,0,,Ông ấy là trích tiên trên trời.
-Dialogue: 0,1:41:45.50,1:41:49.35,Main,,0,0,0,,Vậy ta nên lúc nào quay về trời đây?
-Dialogue: 0,1:41:49.34,1:41:53.50,Main,,0,0,0,,Hồ cơ, Hồ cơ, múa nhanh hơn nữa.
-Dialogue: 0,1:41:53.50,1:41:54.85,Main,,0,0,0,,Nào.
-Dialogue: 0,1:42:01.19,1:42:06.10,Main,,0,0,0,,Cầm tấu Long Môn chi lục đồng,
-Dialogue: 0,1:42:06.65,1:42:12.96,Main,,0,0,0,,Ngọc hồ mỹ tửu thanh nhược không.
+Dialogue: 0,1:40:36.08,1:40:37.58,Main,,0,0,0,,Thật trùng hợp, thật trùng hợp.
+Dialogue: 0,1:40:39.03,1:40:41.68,Main,,0,0,0,,Vương Duy huynh, \Nhuynh cũng lại đây nối hai câu đi.
+Dialogue: 0,1:40:42.44,1:40:44.62,Main,,0,0,0,,Các vị cứ vui vẻ, ta còn có việc.
+Dialogue: 0,1:40:44.83,1:40:45.82,Main,,0,0,0,,Xin cáo lui trước.
+Dialogue: 0,1:40:49.40,1:40:52.17,Main,,0,0,0,,Ma Cật cư sĩ \Nbị tiếng ợ rượu của ông hun cho,
+Dialogue: 0,1:40:52.17,1:40:54.13,Main,,0,0,0,,mất luôn mười mấy năm tu hành.
+Dialogue: 0,1:40:54.13,1:40:56.89,Main,,0,0,0,,Đến lượt ta, ta đến đây, ta đến đây.
+Dialogue: 0,1:40:58.82,1:41:00.48,Main,,0,0,0,,Cao Tam Thập Ngũ.
+Dialogue: 0,1:41:00.69,1:41:02.61,Main,,0,0,0,,Cao Tam Thập Ngũ.
+Dialogue: 0,1:41:02.95,1:41:04.18,Main,,0,0,0,,Mau nói cho ta biết.
+Dialogue: 0,1:41:04.40,1:41:07.56,Main,,0,0,0,,Sao huynh lại đột nhiên \Nđến Trường An vậy?
+Dialogue: 0,1:41:08.35,1:41:10.88,Main,,0,0,0,,Sao huynh không báo trước \Ncho ta một tiếng?
+Dialogue: 0,1:41:10.88,1:41:13.69,Main,,0,0,0,,T-Ta là nhận được\N bức thư gấp của Lý huynh mà.
+Dialogue: 0,1:41:15.97,1:41:17.58,Main,,0,0,0,,Thư gấp của ta?
+Dialogue: 0,1:41:19.48,1:41:21.95,Main,,0,0,0,,Xương Linh huynh, \Ncó phải huynh không nối được không?
+Dialogue: 0,1:41:21.95,1:41:22.96,Main,,0,0,0,,Xương Linh huynh.
+Dialogue: 0,1:41:22.96,1:41:25.48,Main,,0,0,0,,Nếu huynh không nối được \Nthì phải chịu phạt đó.
+Dialogue: 0,1:41:25.48,1:41:27.89,Main,,0,0,0,,Để ta, để ta. Ta đến đây.
+Dialogue: 0,1:41:31.42,1:41:32.44,Main,,0,0,0,,Tỳ bà đâu.
+Dialogue: 0,1:41:37.19,1:41:41.75,Main,,0,0,0,,Lý Bạch... không phải người phàm trần.
+Dialogue: 0,1:41:41.75,1:41:45.18,Main,,0,0,0,,Mà là trích tiên trên trời.
+Dialogue: 0,1:41:45.50,1:41:49.04,Main,,0,0,0,,Vậy ta nên quay về trời lúc nào đây, hả?
+Dialogue: 0,1:41:49.34,1:41:53.23,Main,,0,0,0,,Hồ cơ, Hồ cơ, múa nhanh hơn nữa.
+Dialogue: 0,1:41:53.50,1:41:54.85,Main,,0,0,0,,Nào!
+Dialogue: 0,1:42:01.19,1:42:06.10,Main,thơ/văn,0,0,0,,Cầm tấu Long Môn chi lục đồng,
+Dialogue: 0,1:42:06.65,1:42:12.96,Main,thơ/văn,0,0,0,,Ngọc hồ mỹ tửu thanh nhược không.
 Dialogue: 0,1:42:12.96,1:42:13.54,Main,,0,0,0,,Hay!
-Dialogue: 0,1:42:13.54,1:42:15.58,Main,,0,0,0,,- Hay! - Lý Bạch là con của thương nhân,
-Dialogue: 0,1:42:15.58,1:42:17.29,Main,,0,0,0,,lại có huyết mạch người Hồ.
-Dialogue: 0,1:42:17.29,1:42:19.27,Main,,0,0,0,,Vậy mà lại nổi danh thiên hạ.
-Dialogue: 0,1:42:19.27,1:42:21.94,Main,,0,0,0,,Đại Đường của ta thật là biển lớn dung nạp trăm sông.
-Dialogue: 0,1:42:24.90,1:42:30.89,Main,,0,0,0,,Thôi huyền phất trụ dữ quân ẩm,
-Dialogue: 0,1:42:33.15,1:42:35.90,Main,,0,0,0,,Hồ cơ mạo như hoa.
-Dialogue: 0,1:42:36.08,1:42:39.63,Main,,0,0,0,,Đương lô tiếu xuân phong.
-Dialogue: 0,1:42:39.63,1:42:44.64,Main,,0,0,0,,Tiếu xuân phong, vũ la y.
-Dialogue: 0,1:42:47.44,1:42:50.96,Main,,0,0,0,,Đây không phải là nối câu, đây là câu mới.
-Dialogue: 0,1:42:50.96,1:42:54.35,Main,,0,0,0,,Cả thể thơ cũng đổi rồi, phải phạt.
-Dialogue: 0,1:42:54.44,1:42:57.46,Main,,0,0,0,,Được, phạt gì, các ngươi nói.
-Dialogue: 0,1:42:57.46,1:43:00.71,Main,,0,0,0,,Ngươi phải làm mười bài thơ mới được xuống.
-Dialogue: 0,1:43:00.71,1:43:04.92,Main,,0,0,0,,Mười bài có là gì, ta làm trăm bài cho các ngươi xem.
-Dialogue: 0,1:43:04.92,1:43:10.48,Main,,0,0,0,,Hồ cơ, Hồ cơ, nào, múa gấp hơn nữa.
-Dialogue: 0,1:43:22.11,1:43:23.39,Main,,0,0,0,,Cao huynh.
-Dialogue: 0,1:43:23.78,1:43:24.93,Main,,0,0,0,,Cao huynh.
-Dialogue: 0,1:43:30.48,1:43:31.83,Main,,0,0,0,,Cao huynh.
-Dialogue: 0,1:43:31.86,1:43:33.10,Main,,0,0,0,,Cao huynh.
-Dialogue: 0,1:43:35.57,1:43:39.02,Main,,0,0,0,,Ngay cả con ngựa của ta cũng nóng lòng muốn về nhà rồi.
-Dialogue: 0,1:43:39.98,1:43:41.17,Main,,0,0,0,,Đỗ huynh.
-Dialogue: 0,1:43:41.19,1:43:43.98,Main,,0,0,0,,Từ biệt tại đây, mời huynh về.
-Dialogue: 0,1:43:44.23,1:43:46.83,Main,,0,0,0,,Cao huynh vừa đến Trường An đã vội vã rời đi như vậy,
-Dialogue: 0,1:43:46.83,1:43:48.48,Main,,0,0,0,,sao không ở lại thêm vài ngày?
-Dialogue: 0,1:43:49.03,1:43:50.43,Main,,0,0,0,,Lý Bạch...
-Dialogue: 0,1:43:51.23,1:43:52.65,Main,,0,0,0,,Lý Bạch huynh tỉnh rượu,
-Dialogue: 0,1:43:52.65,1:43:54.94,Main,,0,0,0,,nhất định sẽ đến giữ Cao huynh lại.
-Dialogue: 0,1:43:55.36,1:43:59.31,Main,,0,0,0,,Cơn say này của huynh ấy, bao giờ mới tỉnh?
+Dialogue: 0,1:42:13.54,1:42:15.58,Main,,0,0,0,,Lý Bạch là con của thương nhân,
+Dialogue: 0,1:42:15.58,1:42:17.29,Main,,0,0,0,,lại có huyết mạch người Hồ,
+Dialogue: 0,1:42:17.29,1:42:19.27,Main,,0,0,0,,vậy mà nổi danh thiên hạ.
+Dialogue: 0,1:42:19.27,1:42:21.94,Main,,0,0,0,,Đại Đường của ta đúng là biển lớn\N dung nạp trăm sông.
+Dialogue: 0,1:42:24.90,1:42:30.89,Main,thơ/văn,0,0,0,,Thôi huyền phất trụ dữ quân ẩm,
+Dialogue: 0,1:42:33.15,1:42:35.90,Main,thơ/văn,0,0,0,,Hồ cơ mạo như hoa.
+Dialogue: 0,1:42:36.08,1:42:39.63,Main,thơ/văn,0,0,0,,Đương lô tiếu xuân phong.
+Dialogue: 0,1:42:39.63,1:42:44.64,Main,thơ/văn,0,0,0,,Tiếu xuân phong, vũ la y.
+Dialogue: 0,1:42:47.44,1:42:50.69,Main,,0,0,0,,Đây không phải nối câu, \Nđây là câu mới.
+Dialogue: 0,1:42:50.69,1:42:53.90,Main,,0,0,0,,Cả thể thơ cũng đổi rồi, phải phạt.
+Dialogue: 0,1:42:54.44,1:42:57.46,Main,,0,0,0,,Được, phạt gì, các người nói đi.
+Dialogue: 0,1:42:57.46,1:43:00.71,Main,,0,0,0,,Phải làm mười bài thơ mới được xuống.
+Dialogue: 0,1:43:00.71,1:43:04.77,Main,,0,0,0,,Mười bài có là gì, \Nta làm trăm bài cho các người xem.
+Dialogue: 0,1:43:04.77,1:43:10.18,Main,,0,0,0,,Hồ cơ, Hồ cơ, nào!\N Múa nhanh hơn nữa.
+Dialogue: 0,1:43:22.19,1:43:23.17,Main,,0,0,0,,Cao huynh.
+Dialogue: 0,1:43:23.78,1:43:24.78,Main,,0,0,0,,Cao huynh?
+Dialogue: 0,1:43:30.56,1:43:31.65,Main,,0,0,0,,Cao huynh.
+Dialogue: 0,1:43:31.79,1:43:32.52,Main,,0,0,0,,Cao huynh!
+Dialogue: 0,1:43:35.57,1:43:38.83,Main,,0,0,0,,Ngay cả con ngựa của ta \Ncũng nóng lòng muốn về nhà rồi.
+Dialogue: 0,1:43:39.98,1:43:40.74,Main,,0,0,0,,Đỗ huynh.
+Dialogue: 0,1:43:41.19,1:43:43.55,Main,,0,0,0,,Từ biệt tại đây, mời huynh về.
+Dialogue: 0,1:43:44.23,1:43:46.83,Main,,0,0,0,,Cao huynh vừa đến Trường An\N đã vội rời đi như vậy.
+Dialogue: 0,1:43:46.83,1:43:48.34,Main,,0,0,0,,Sao không ở lại thêm vài ngày?
+Dialogue: 0,1:43:49.03,1:43:49.92,Main,,0,0,0,,Lý Bạch...
+Dialogue: 0,1:43:51.23,1:43:52.34,Main,,0,0,0,,Lý Bạch huynh tỉnh rượu,
+Dialogue: 0,1:43:52.65,1:43:54.35,Main,,0,0,0,,nhất định sẽ giữ Cao huynh ở lại.
+Dialogue: 0,1:43:55.36,1:43:56.54,Main,,0,0,0,,Cơn say này của huynh ấy...
+Dialogue: 0,1:43:57.44,1:43:58.96,Main,,0,0,0,,bao giờ mới tỉnh đây?
 Dialogue: 0,1:44:01.98,1:44:04.10,Main,,0,0,0,,Đại bàng tiêu dao nơi mây xanh.
-Dialogue: 0,1:44:04.28,1:44:08.81,Main,,0,0,0,,Huynh ấy vốn không câu nệ tiểu tiết nhân gian, ta không trách huynh ấy.
-Dialogue: 0,1:44:12.07,1:44:14.33,Main,,0,0,0,,Đỗ huynh, trước khi từ biệt,
-Dialogue: 0,1:44:14.33,1:44:16.27,Main,,0,0,0,,có thể đi cùng ta đến một nơi không?
-Dialogue: 0,1:44:34.61,1:44:37.77,Main,,0,0,0,,Đỗ huynh, huynh có biết không?
-Dialogue: 0,1:44:38.32,1:44:42.25,Main,,0,0,0,,Tổ phụ của ta, hai mươi tuổi làm Kiêu Kỵ Lang Tướng,
-Dialogue: 0,1:44:42.25,1:44:45.09,Main,,0,0,0,,bắt sống Xa Tị Khả Hãn của Đột Quyết.
-Dialogue: 0,1:44:45.11,1:44:48.23,Main,,0,0,0,,Ba mươi tuổi theo Lý Tích công diệt Cao Câu Ly.
-Dialogue: 0,1:44:48.23,1:44:50.43,Main,,0,0,0,,Bốn mươi tuổi đại phá Tân La.
-Dialogue: 0,1:44:50.98,1:44:52.52,Main,,0,0,0,,Bốn mươi hai tuổi,
-Dialogue: 0,1:44:54.69,1:44:56.81,Main,,0,0,0,,ông ấy đã qua đời.
-Dialogue: 0,1:45:01.11,1:45:04.10,Main,,0,0,0,,Ta năm nay đã bốn mươi ba tuổi rồi.
-Dialogue: 0,1:45:08.86,1:45:09.92,Main,,0,0,0,,Đỗ huynh,
-Dialogue: 0,1:45:09.92,1:45:13.73,Main,,0,0,0,,chúc huynh năm sau một bước vượt vũ môn, sớm ngày thành công.
-Dialogue: 0,1:45:13.86,1:45:15.73,Main,,0,0,0,,- Từ biệt. - Bảo trọng.
-Dialogue: 0,1:45:23.03,1:45:27.48,Main,,0,0,0,,Ta à, lại quay về Lương Viên ở Thương Khâu.
-Dialogue: 0,1:45:44.69,1:45:46.39,Main,,0,0,0,,Tiễn pháp hay.
-Dialogue: 0,1:45:57.57,1:45:58.77,Main,,0,0,0,,Sao không bắn?
-Dialogue: 0,1:45:59.23,1:46:00.48,Main,,0,0,0,,Một con nhạn lẻ loi,
-Dialogue: 0,1:46:01.44,1:46:05.23,Main,,0,0,0,,bay về phương nam, cứ để nó đi đi.
-Dialogue: 0,1:46:05.38,1:46:07.52,Main,,0,0,0,,Cao huynh có lòng từ bi như vậy,
-Dialogue: 0,1:46:07.52,1:46:10.02,Main,,0,0,0,,có phải một ngày nào đó sẽ nhập Phật môn không?
-Dialogue: 0,1:46:11.57,1:46:12.85,Main,,0,0,0,,Đỗ Phủ huynh.
-Dialogue: 0,1:46:16.40,1:46:17.81,Main,,0,0,0,,Cao huynh.
-Dialogue: 0,1:46:19.53,1:46:21.06,Main,,0,0,0,,Lâu ngày không gặp, vẫn khỏe chứ?
-Dialogue: 0,1:46:24.90,1:46:26.52,Main,,0,0,0,,Cao Tam Thập Ngũ.
-Dialogue: 0,1:46:27.60,1:46:28.64,Main,,0,0,0,,Lý Bạch.
-Dialogue: 0,1:46:29.57,1:46:32.94,Main,,0,0,0,,Huynh... sao huynh lại mặc đạo trang thế này?
-Dialogue: 0,1:46:38.53,1:46:40.65,Main,,0,0,0,,Mấy năm Lý Bạch huynh ở Trường An,
-Dialogue: 0,1:46:40.65,1:46:44.02,Main,,0,0,0,,Lý Lâm Phủ ngày càng ghen ghét Lý Bạch huynh.
-Dialogue: 0,1:46:45.98,1:46:48.39,Main,,0,0,0,,Quý phi cũng hận ta.
-Dialogue: 0,1:46:49.03,1:46:53.00,Main,,0,0,0,,Ta còn tưởng ta làm thơ là để ca ngợi vẻ đẹp của Quý phi.
-Dialogue: 0,1:46:53.00,1:46:57.40,Main,,0,0,0,,Không ngờ, Quý phi lại cho rằng ta đang chế nhạo bà ấy.
-Dialogue: 0,1:46:57.61,1:47:00.02,Main,,0,0,0,,Cho nên Dương Quốc Trung cũng căm ghét Lý Bạch huynh.
-Dialogue: 0,1:47:00.03,1:47:03.31,Main,,0,0,0,,Trường An đã trở thành một nơi vô cùng hiểm ác.
+Dialogue: 0,1:44:04.28,1:44:06.54,Main,,0,0,0,,Huynh ấy vốn không câu nệ \Ntiểu tiết nơi nhân gian.
+Dialogue: 0,1:44:07.17,1:44:08.45,Main,,0,0,0,,Ta không trách huynh ấy.
+Dialogue: 0,1:44:12.07,1:44:14.13,Main,,0,0,0,,Đỗ huynh, trước khi từ biệt,
+Dialogue: 0,1:44:14.33,1:44:15.74,Main,,0,0,0,,có thể cùng ta đến một nơi không?
+Dialogue: 0,1:44:21.44,1:44:26.65,Signs,,0,0,0,,
+Dialogue: 0,1:44:34.61,1:44:35.55,Main,,0,0,0,,Đỗ huynh.
+Dialogue: 0,1:44:36.21,1:44:37.36,Main,,0,0,0,,Huynh có biết không?
+Dialogue: 0,1:44:38.32,1:44:42.25,Main,,0,0,0,,Tổ phụ của ta, \N20 tuổi làm Kiêu Kỵ Lang Tướng,
+Dialogue: 0,1:44:42.25,1:44:44.70,Main,,0,0,0,,bắt sống Khả Hãn của Đột Quyết là Xa Tị.
+Dialogue: 0,1:44:45.11,1:44:47.89,Main,,0,0,0,,30 tuổi theo Lý Tích công \Ndiệt Cao Câu Ly.
+Dialogue: 0,1:44:48.23,1:44:50.21,Main,,0,0,0,,40 tuổi đại phá Tân La.
+Dialogue: 0,1:44:50.98,1:44:52.52,Main,,0,0,0,,42 tuổi...
+Dialogue: 0,1:44:54.69,1:44:56.45,Main,,0,0,0,,thì qua đời.
+Dialogue: 0,1:45:01.11,1:45:03.55,Main,,0,0,0,,Ta năm nay đã 43 tuổi rồi.
+Dialogue: 0,1:45:08.86,1:45:09.63,Main,,0,0,0,,Đỗ huynh.
+Dialogue: 0,1:45:09.92,1:45:13.20,Main,,0,0,0,,Chúc huynh năm sau \Nmột bước vượt vũ môn, sớm ngày thành công.
+Dialogue: 0,1:45:13.86,1:45:14.51,Main,,0,0,0,,Từ biệt.
+Dialogue: 0,1:45:14.51,1:45:15.30,Main,,0,0,0,,Bảo trọng.
+Dialogue: 0,1:45:23.03,1:45:24.21,Main,,0,0,0,,Ta ấy à.
+Dialogue: 0,1:45:24.60,1:45:27.23,Main,,0,0,0,,Lại quay về Lương Viên ở Thương Khâu.
+Dialogue: 0,1:45:44.77,1:45:45.94,Main,,0,0,0,,Bắn hay lắm!
+Dialogue: 0,1:45:57.57,1:45:58.75,Main,,0,0,0,,Sao không bắn?
+Dialogue: 0,1:45:59.23,1:46:00.48,Main,,0,0,0,,Một con nhạn lẻ loi.
+Dialogue: 0,1:46:01.44,1:46:04.46,Main,,0,0,0,,Đang bay về phương nam, \Ncứ để nó bay đi.
+Dialogue: 0,1:46:05.38,1:46:07.52,Main,,0,0,0,,Cao huynh có lòng từ bi như vậy.
+Dialogue: 0,1:46:07.52,1:46:09.76,Main,,0,0,0,,Phải chăng rồi một ngày \Nsẽ bước vào cửa Phật?
+Dialogue: 0,1:46:11.57,1:46:12.70,Main,,0,0,0,,Đỗ Phủ huynh.
+Dialogue: 0,1:46:16.40,1:46:17.17,Main,,0,0,0,,Cao huynh.
+Dialogue: 0,1:46:19.53,1:46:20.83,Main,,0,0,0,,Lâu không gặp, vẫn khỏe chứ?
+Dialogue: 0,1:46:24.90,1:46:26.16,Main,,0,0,0,,Cao Tam Thập Ngũ.
+Dialogue: 0,1:46:27.60,1:46:28.46,Main,,0,0,0,,Lý Bạch?
+Dialogue: 0,1:46:29.57,1:46:30.35,Main,,0,0,0,,Huynh...
+Dialogue: 0,1:46:30.66,1:46:32.94,Main,,0,0,0,,Sao huynh lại ăn mặc như đạo gia thế?
+Dialogue: 0,1:46:38.53,1:46:40.37,Main,,0,0,0,,Mấy năm Lý Bạch huynh ở Trường An,
+Dialogue: 0,1:46:40.65,1:46:43.58,Main,,0,0,0,,Lý Lâm Phủ ngày càng ghen ghét \NLý Bạch huynh.
+Dialogue: 0,1:46:45.98,1:46:47.97,Main,,0,0,0,,Quý phi cũng hận ta.
+Dialogue: 0,1:46:49.03,1:46:52.61,Main,,0,0,0,,Ta còn tưởng ta làm thơ \Nlà để ca ngợi vẻ đẹp của Quý phi.
+Dialogue: 0,1:46:53.00,1:46:56.62,Main,,0,0,0,,Không ngờ, Quý phi lại cho rằng \Nta đang chế nhạo mới hay.
+Dialogue: 0,1:46:57.73,1:46:59.76,Main,,0,0,0,,Cho nên Dương Quốc Trung\N cũng căm ghét Lý Bạch huynh.
+Dialogue: 0,1:47:00.03,1:47:03.09,Main,,0,0,0,,Trường An đã trở thành \Nmột nơi vô cùng hiểm ác.
 Dialogue: 0,1:47:04.44,1:47:05.52,Main,,0,0,0,,Thánh thượng...
-Dialogue: 0,1:47:06.19,1:47:08.31,Main,,0,0,0,,Bám rồng không thành,
-Dialogue: 0,1:47:10.03,1:47:12.39,Main,,0,0,0,,bỗng dưng rơi từ trên trời xuống.
-Dialogue: 0,1:47:16.44,1:47:19.41,Main,,0,0,0,,An năng tồi mi chiết yêu sự quyền quý,
-Dialogue: 0,1:47:19.41,1:47:22.73,Main,,0,0,0,,Sử ngã bất đắc khai tâm nhan.
-Dialogue: 0,1:47:24.57,1:47:28.89,Main,,0,0,0,,Vậy tiếp theo huynh có dự định gì?
-Dialogue: 0,1:47:32.03,1:47:34.31,Main,,0,0,0,,Ta muốn quy y đạo môn.
-Dialogue: 0,1:47:34.65,1:47:36.39,Main,,0,0,0,,Quy y đạo môn?
-Dialogue: 0,1:47:39.40,1:47:40.86,Main,,0,0,0,,Cao Thích,
-Dialogue: 0,1:47:40.86,1:47:42.60,Main,,0,0,0,,ta không nói đùa đâu.
-Dialogue: 0,1:47:42.94,1:47:44.23,Main,,0,0,0,,Thật đó.
-Dialogue: 0,1:47:45.15,1:47:46.93,Main,,0,0,0,,Huynh xem Lương Viên này,
-Dialogue: 0,1:47:47.44,1:47:50.60,Main,,0,0,0,,Lương Vương ngày ấy, nay ở đâu?
-Dialogue: 0,1:47:50.78,1:47:56.06,Main,,0,0,0,,Trên đài cao này, đã từng có bao nhiêu tiếng ca bóng múa?
-Dialogue: 0,1:47:58.78,1:48:03.02,Main,,0,0,0,,Huynh và ta gặp nhau lúc trẻ, đều có chí lớn ngút trời.
-Dialogue: 0,1:48:03.65,1:48:05.68,Main,,0,0,0,,Nhưng trong chớp mắt,
-Dialogue: 0,1:48:10.53,1:48:13.31,Main,,0,0,0,,chúng ta đều đã gần năm mươi tuổi.
-Dialogue: 0,1:48:14.07,1:48:18.02,Main,,0,0,0,,Phu nhân của ta cũng vừa mới qua đời.
-Dialogue: 0,1:48:23.36,1:48:27.43,Main,,0,0,0,,Con đường nhân gian, ta không đi nổi nữa rồi.
-Dialogue: 0,1:48:33.19,1:48:34.43,Main,,0,0,0,,Cao Thích,
-Dialogue: 0,1:48:35.28,1:48:36.98,Main,,0,0,0,,quãng đời còn lại đã ngắn.
-Dialogue: 0,1:48:40.07,1:48:42.14,Main,,0,0,0,,Ta muốn đi con đường xuất thế.
+Dialogue: 0,1:47:06.19,1:47:08.08,Main,,0,0,0,,Bám rồng không thành...
+Dialogue: 0,1:47:10.03,1:47:12.32,Main,,0,0,0,,bỗng dưng rơi từ trên trời xuống.
+Dialogue: 0,1:47:16.44,1:47:18.83,Main,thơ/văn,0,0,0,,An năng tồi mi chiết yêu sự quyền quý,
+Dialogue: 0,1:47:19.41,1:47:22.73,Main,thơ/văn,0,0,0,,Sử ngã bất đắc khai tâm nhan.
+Dialogue: 0,1:47:24.57,1:47:28.19,Main,,0,0,0,,Vậy tiếp theo huynh có dự định gì?
+Dialogue: 0,1:47:32.03,1:47:34.14,Main,,0,0,0,,Ta muốn quy y đạo môn.
+Dialogue: 0,1:47:34.65,1:47:36.18,Main,,0,0,0,,Quy y đạo môn?
+Dialogue: 0,1:47:39.40,1:47:40.45,Main,,0,0,0,,Cao Thích,
+Dialogue: 0,1:47:40.86,1:47:42.37,Main,,0,0,0,,ta không nói đùa đâu.
+Dialogue: 0,1:47:42.94,1:47:44.03,Main,,0,0,0,,Thật đó.
+Dialogue: 0,1:47:45.15,1:47:46.61,Main,,0,0,0,,Huynh xem Lương Viên này,
+Dialogue: 0,1:47:47.44,1:47:50.21,Main,,0,0,0,,Lương Vương ngày ấy, nay ở đâu?
+Dialogue: 0,1:47:50.78,1:47:55.87,Main,,0,0,0,,Trên đài cao này, \Nđã từng có bao nhiêu đàn ca điệu múa?
+Dialogue: 0,1:47:58.78,1:48:02.31,Main,,0,0,0,,Huynh và ta gặp nhau lúc trẻ, \Nđều có chí lớn ngút trời.
+Dialogue: 0,1:48:03.65,1:48:05.49,Main,,0,0,0,,Nhưng trong chớp mắt,
+Dialogue: 0,1:48:10.53,1:48:13.04,Main,,0,0,0,,đều đã gần năm mươi rồi.
+Dialogue: 0,1:48:14.07,1:48:17.65,Main,,0,0,0,,Phu nhân của ta cũng vừa mới qua đời.
+Dialogue: 0,1:48:23.36,1:48:27.26,Main,,0,0,0,,Con đường nơi trần thế, ta không đi nổi nữa rồi.
+Dialogue: 0,1:48:33.19,1:48:34.34,Main,,0,0,0,,Cao Thích.
+Dialogue: 0,1:48:35.28,1:48:36.98,Main,,0,0,0,,Quãng đời còn lại đã ngắn.
+Dialogue: 0,1:48:40.07,1:48:41.98,Main,,0,0,0,,Ta muốn đi con đường ra khỏi thế gian.
 Dialogue: 0,1:48:56.57,1:48:57.88,Main,,0,0,0,,Cao thiên sư ở Bắc Hải,
-Dialogue: 0,1:48:57.88,1:49:00.06,Main,,0,0,0,,đã dựng xong một đạo đàn ở Tế Nam,
-Dialogue: 0,1:49:00.11,1:49:02.35,Main,,0,0,0,,để trao đạo lục cho Thái Bạch huynh.
-Dialogue: 0,1:49:02.35,1:49:04.48,Main,,0,0,0,,Cao huynh, có lẽ huynh không biết,
-Dialogue: 0,1:49:04.63,1:49:07.31,Main,,0,0,0,,việc lĩnh nhận đạo lục là một chuyện gian nan.
+Dialogue: 0,1:48:57.88,1:48:59.86,Main,,0,0,0,,đã dựng xong một đạo đàn ở Tế Nam,
+Dialogue: 0,1:49:00.11,1:49:02.05,Main,,0,0,0,,để trao đạo lục cho Thái Bạch huynh.
+Dialogue: 0,1:49:02.35,1:49:04.43,Main,,0,0,0,,Cao huynh, có lẽ huynh không biết,
+Dialogue: 0,1:49:04.63,1:49:06.99,Main,,0,0,0,,việc nhận lấy đạo lục rất gian nan.
 Dialogue: 0,1:49:07.31,1:49:09.04,Main,,0,0,0,,Lý Bạch huynh cần phải lên đạo đàn,
-Dialogue: 0,1:49:09.04,1:49:11.73,Main,,0,0,0,,tụng kinh niệm chú, ngày đêm không nghỉ.
-Dialogue: 0,1:49:12.82,1:49:16.68,Main,,0,0,0,,Cho nên ta muốn mời hai vị đến hộ pháp cho ta.
-Dialogue: 0,1:49:18.03,1:49:20.98,Main,,0,0,0,,Cao Thích, huynh là người bạn tốt nhất của ta.
-Dialogue: 0,1:49:20.98,1:49:23.00,Main,,0,0,0,,Huynh hiểu ta, với tính khí của ta,
-Dialogue: 0,1:49:23.00,1:49:25.81,Main,,0,0,0,,một mình ta đi căn bản không thể kiên trì nổi.
-Dialogue: 0,1:49:29.15,1:49:30.81,Main,,0,0,0,,Con đại bàng này,
-Dialogue: 0,1:49:31.19,1:49:33.02,Main,,0,0,0,,bay không nổi nữa rồi.
-Dialogue: 0,1:49:33.44,1:49:35.31,Main,,0,0,0,,Cũng không muốn bay nữa.
-Dialogue: 0,1:49:37.48,1:49:41.27,Main,,0,0,0,,Huynh ấy nói, ta là người bạn tốt nhất của huynh ấy.
-Dialogue: 0,1:49:41.50,1:49:43.10,Main,,0,0,0,,Ta có phải không?
-Dialogue: 0,1:49:44.27,1:49:48.18,Main,,0,0,0,,Dù sao đi nữa, ta đã đồng ý với huynh ấy.
+Dialogue: 0,1:49:09.04,1:49:11.52,Main,,0,0,0,,tụng kinh niệm chú, ngày đêm không nghỉ.
+Dialogue: 0,1:49:13.02,1:49:16.31,Main,,0,0,0,,Cho nên ta muốn mời hai vị \Nđến hộ pháp cho ta.
+Dialogue: 0,1:49:18.03,1:49:20.98,Main,,0,0,0,,Cao Thích, huynh là \Nngười bạn tốt nhất của ta.
+Dialogue: 0,1:49:20.98,1:49:25.66,Main,,0,0,0,,Huynh hiểu ta, với tính khí của ta \Nmột mình ta căn bản không thể kiên trì nổi.
+Dialogue: 0,1:49:29.15,1:49:30.61,Main,,0,0,0,,Con đại bàng này.
+Dialogue: 0,1:49:31.19,1:49:32.72,Main,,0,0,0,,Bay không nổi nữa rồi.
+Dialogue: 0,1:49:33.44,1:49:35.14,Main,,0,0,0,,Cũng không muốn bay nữa.
+Dialogue: 0,1:49:37.48,1:49:41.12,Main,,0,0,0,,Ông ấy nói, ta là người bạn tốt nhất.
+Dialogue: 0,1:49:41.50,1:49:42.67,Main,,0,0,0,,Ta sao?
+Dialogue: 0,1:49:44.27,1:49:45.39,Main,,0,0,0,,Dù sao thì...
+Dialogue: 0,1:49:46.51,1:49:47.76,Main,,0,0,0,,Ta đã đồng ý.
+Dialogue: 0,1:49:49.15,1:49:52.48,Signs,,0,0,0,,{\blur0.66\fscx120\fscy120\an7\fad(727,0)\pos(1606.85,388.3)}Đạo \Nđàn\N Tế\N Nam 
 Dialogue: 0,1:50:34.78,1:50:36.58,Main,,0,0,0,,Tân đạo sĩ.
 Dialogue: 0,1:50:36.59,1:50:36.94,Main,,0,0,0,,Lý huynh.
 Dialogue: 0,1:50:37.17,1:50:39.85,Main,,0,0,0,,- Lý huynh. - Nghi thức đã thành.
